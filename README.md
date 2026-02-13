@@ -7,6 +7,10 @@ Bir ürünün fiyatının kaç dürüm ettiğini hesaplayan masaüstü uygulamas
 👉 [Windows için indir (v1.0)](https://github.com/tkagant/kac-durum/releases/download/V1.0/Kac_Durum_Setup.exe)
 
 ---
+## 📸 Uygulama Görünümü
+
+![Kaç Dürüm Screenshot](kacdurumm.png)
+
 
 ## 🚀 Özellikler
 
